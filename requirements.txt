@@ -1,0 +1,5 @@
+streamlit
+chromadb
+PyPDF2 
+langchain
+pysqlite3-binary
